@@ -1,6 +1,6 @@
 body{
 	background-color: #fff;
-	font-family: "Crimson Text";
+	font-family: "Europa";
 }
 
 .main{
@@ -10,13 +10,15 @@ body{
 .home-description{
 	font-style: italic;
 	font-weight: 600;
-	font-family: "Crimson";
+	font-family: "Europa";
 	font-size: 19px;
     padding-top: 15px;
     padding-bottom: 25px;
     line-height: 29px;
 
 }
+
+@import url("https://use.typekit.net/nkv5yxr.css");
 
 .social a i{
 	height: 40px;
@@ -52,7 +54,7 @@ body{
     	}
 
     	.info{
-			font-family: "Crimson";
+			font-family: "Europa";
 			line-height: 28px;
 		    font-size: 16px;
 		    padding-top: 15px;
@@ -93,7 +95,7 @@ p{
 
 .page-title{
 	text-transform: uppercase;
-	font-family: 'Josefin Sans';
+	font-family: 'Europa';
 }
 
 /*Home Style*/
@@ -104,7 +106,7 @@ p{
 }
 
 .logo h4{
-	font-family: 'Josefin Sans';
+	font-family: 'Europa';
 }
 
 
@@ -116,7 +118,7 @@ footer{
 
 .back{
     width: 170px;    
-    font-family: "Crimson";
+    font-family: "Europa";
     font-size: 17px;
     font-style: italic;
     vertical-align: middle;
@@ -146,11 +148,11 @@ footer{
 }
 
 .btn-group-vertical{
-    font-family: "Josefin Sans";    
+    font-family: "Europa";    
 }
 
 .about{
-	font-family: "Josefin Sans";
+	font-family: "Europa";
 	/*margin-top: 35px;*/
 	/*margin-bottom: 25px;*/
 	font-size: 32px;
@@ -159,14 +161,14 @@ footer{
 .form-control{
 	font-style: italic;
 	border-radius: 0;
-	font-family: "Crimson";
+	font-family: "Europa";
 	font-size: 16px;
 }
 
 .page-title{
 	
 	font-size: 32px;
-	font-family: "Josefin Sans";
+	font-family: "Europa";
 }
 
 .fa-heartbeat{
@@ -202,7 +204,7 @@ footer{
 
 .submit{
 
-	font-family: "Crimson"
+	font-family: "Europa"
 	font-size: 16px;
 }
 
@@ -212,7 +214,7 @@ footer{
 	font-size: 20px;
 	color: #3b3b3b;
 	line-height: 28px;
-	font-family: "Crimson";
+	font-family: "Europa";
 	margin-top: 15px;
 	margin-bottom: 20px;
 	padding-right: 40px;
@@ -233,7 +235,7 @@ footer{
 	position: absolute;
 	font-size: 60px;
 	opacity: 0.1;
-	font-family: "Josefin Sans";
+	font-family: "Europa";
 	text-transform: uppercase;
 	left: 0;
 	top: -5px;
